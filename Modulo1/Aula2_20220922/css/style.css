@@ -1,0 +1,23 @@
+body {
+    background-color: aquamarine;
+    color: #333;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+#help {
+    font-size: 26px;
+}
+dt {
+    font-size: 18px;
+    font-weight: 600;
+}
+.big {
+    font-size: 26px;
+}
+.small {
+    font-size: 10px;
+}
+a {
+    color: purple;
+    font-weight: 600;
+}
